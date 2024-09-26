@@ -1,4 +1,4 @@
-# Chatbot UI Improvement
+# Chatbot UI 
 
 This project is an improved version of chatbot UI that allows customizing request URLs.
 ## Getting Started
